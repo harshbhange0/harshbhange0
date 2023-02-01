@@ -1,1 +1,1 @@
-<h1 align"center"> HI🙌 I`M HARSH BHANGE</h1>
+<h1 align="center">Hi 👋, I'm HARSH BHAMGE</h1>
