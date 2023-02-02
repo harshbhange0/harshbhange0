@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HARSH BHANGE  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"></h1>
+<h1 align="center">&nbsp;Hi 👋, I'm HARSH BHANGE&nbsp;</h1>
 
 
 
