@@ -16,7 +16,7 @@
  &nbsp;</a>
 
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="200" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshbhange0&show_icons=true&locale=en" alt="harshbhange0" /></p>
 <p align="center">
