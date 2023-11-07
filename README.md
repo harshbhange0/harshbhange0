@@ -1,4 +1,3 @@
-﻿# harshbhange0
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">A passionate frontend and MERNStack developer from India</h3>
 
