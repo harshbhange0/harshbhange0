@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">A passionate frontend and MERNStack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshbhange0&label=Profile%20views&color=0e75b6&style=flat" alt="harshbhange0" /> </p>
+  [![](https://visitcount.itsvg.in/api?id=harshbhange0&label=Profile%20Views&color=1&icon=9&pretty=true)](https://visitcount.itsvg.in) 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshbhange0" alt="harshbhange0" /></a> </p>
 
 
-
-
+  
 - 👨‍💻 All of my projects are available at [https://portfolio-harshbhange-tailwind-react.netlify.app/](https://portfolio-harshbhange-tailwind-react.netlify.app/)
 
 - 📫 How to reach me **harshbhange@gmail.com**
