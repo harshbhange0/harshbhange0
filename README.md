@@ -7,7 +7,9 @@
 
 
   
-- 👨‍💻 All of my projects are available at [https://portfolio-harshbhange-tailwind-react.netlify.app/](https://portfolio-harshbhange-tailwind-react.netlify.app/)
+- 👨‍💻 All of my projects are available at 
+
+- [portfolio](https://harshbhange0dev.vercel.app/)
 
 - 📫 How to reach me **harshbhange@gmail.com**
 
